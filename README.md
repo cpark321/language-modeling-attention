@@ -12,4 +12,4 @@
 ### Reference
 1. [https://bastings.github.io/]
 
-[https://bastings.github.io/]: (https://bastings.github.io/annotated_encoder_decoder/)
+[https://bastings.github.io/]: https://bastings.github.io/annotated_encoder_decoder/
