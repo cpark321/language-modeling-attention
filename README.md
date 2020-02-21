@@ -10,4 +10,4 @@
   - Codes are heavily inspired by [https://bastings.github.io/]
 
 ### Reference
-1. [https://bastings.github.io/]: https://bastings.github.io/annotated_encoder_decoder/
+1. [https://bastings.github.io/]: (https://bastings.github.io/annotated_encoder_decoder/)
