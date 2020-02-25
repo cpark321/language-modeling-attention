@@ -17,4 +17,4 @@
 [https://bastings.github.io/]: https://bastings.github.io/annotated_encoder_decoder/
 [Neural Machine Translation by Jointly Learning to Align and Translate (Bahdanau, ICLR 2015)]: https://arxiv.org/abs/1409.0473
 [https://github.com/scoutbee/]: https://github.com/scoutbee/pytorch-nlp-notebooks
-1. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (Cho, 2014)]: https://arxiv.org/pdf/1406.1078
+[Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (Cho, 2014)]: https://arxiv.org/pdf/1406.1078
