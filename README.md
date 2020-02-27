@@ -2,7 +2,7 @@
 
 - Learn how to solve some common NLP problems with attention
   1. Tutorial on packing sequence in pytorch, BLEU score
-  2. [Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015)] 
+  2. [Neural Machine Translation by Jointly Learning to Align and Translate (Bahdanau, ICLR 2015)] 
   3. [Attention is All you Need (Google Brain, NIPS 2017)]
   
 - Dependencies
