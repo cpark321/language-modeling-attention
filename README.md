@@ -8,7 +8,7 @@
 - Dependencies
   - Python 3.6+
   - PyTorch==1.3
-  - Codes are heavily inspired by [https://bastings.github.io/], [https://github.com/scoutbee/], [https://nlp.seas.harvard.edu/]
+  - Codes are heavily inspired by [https://bastings.github.io/], [https://github.com/scoutbee/], [https://nlp.seas.harvard.edu/], [https://mayhewsw.github.io/]
 
 ### Reference
 1. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (Cho, 2014)]
@@ -21,3 +21,4 @@
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (Cho, 2014)]: https://arxiv.org/pdf/1406.1078
 [https://nlp.seas.harvard.edu/]: https://nlp.seas.harvard.edu/2018/04/03/attention.html
 [Attention is All you Need (Google Brain, NIPS 2017)]: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
+[https://mayhewsw.github.io/]: https://mayhewsw.github.io/2019/01/16/can-bert-generate-text/
