@@ -16,6 +16,7 @@
 1. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (Cho, 2014)]
 2. [Neural Machine Translation by Jointly Learning to Align and Translate (Bahdanau, ICLR 2015)]
 3. [Attention is All you Need (Google Brain, NIPS 2017)]
+4. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018)]
 
 [https://bastings.github.io/]: https://bastings.github.io/annotated_encoder_decoder/
 [Neural Machine Translation by Jointly Learning to Align and Translate (Bahdanau, ICLR 2015)]: https://arxiv.org/abs/1409.0473
